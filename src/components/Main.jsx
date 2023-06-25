@@ -42,7 +42,7 @@ const Main = () => {
             justifyContent="center"
           >
             <Button variant="contained" component={RouterLink} to="/detail">
-              For more information, click here
+              For more information, click here!!!
             </Button>
           </Stack>
         </Container>
