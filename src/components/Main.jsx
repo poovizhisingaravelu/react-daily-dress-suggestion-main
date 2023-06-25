@@ -33,7 +33,7 @@ const Main = () => {
             color="text.primary"
             gutterBottom
           >
-            Welcome Poovizhi!!!!s
+            Welcome Poovizhi!!!!
           </Typography>
           <Stack
             sx={{ pt: 4 }}
